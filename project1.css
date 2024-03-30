@@ -1,0 +1,30 @@
+#photo{
+    display: inline-block;
+    margin: 20px 10px 20px 0px;
+}
+#name{
+    display: inline-block;
+    font-size: 60px;
+    margin: 100px 0px 0px 0px;
+}
+img{
+    border-radius: 40%;
+}
+h1{
+    font-size: 60px;
+    margin: 20px;
+}
+p{
+    margin: 20px;
+}
+#wikipedia{
+    text-align: end;
+}
+h2{
+    position: absolute;
+    top: 320px;
+    left: 800px;
+}
+body{
+    border: 2px solid black;
+}
